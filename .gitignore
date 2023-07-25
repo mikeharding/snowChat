@@ -4,3 +4,5 @@ secrets.toml
 .ruff_cache
 
 archived_logs/
+
+.python-version
